@@ -35,10 +35,18 @@ php bin/magento setup:static-content:deploy -f
 ## Configuration
 No additional configuration is required. Once installed, the telephone field will automatically appear in the customer registration form.
 
+![image (23)](https://github.com/user-attachments/assets/721e9cce-e5b3-45ce-9516-1f633cfd2880)
+
+![image (21)](https://github.com/user-attachments/assets/f0d3eed6-3610-49fb-b393-3a8258602268)
+
+![image (22)](https://github.com/user-attachments/assets/dcd4c46e-1cc5-4702-ba4c-bfc797b61228)
+
 ## Usage
 1. Go to the **Customer Registration** page.
 2. You will see a **Telephone** field added to the form.
 3. Enter your phone number and complete the registration process.
+4. The phone number will be added in admin customers grid column
+5. You can edit and manage from customers account information
 
 ## Uninstallation
 To remove the module, run:
